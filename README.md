@@ -10,7 +10,7 @@ I am curious about how debt and inflation affect African countries and whether s
 - `notebooks/` : Jupyter notebooks with analysis
 - `results/` : graphs and forecasts
 - `src/` : Python scripts
-- `requirements.txt/`:
+- `requirements.txt/`: Liste des bibliothèques utilisées
 
 ## How to run
 1. Clone the repo
