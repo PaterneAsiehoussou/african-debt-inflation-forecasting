@@ -5,12 +5,6 @@
 ## Motivation
 I am curious about how debt and inflation affect African countries and whether simple models can help us understand trends and make rough forecasts. This project is my first step into data science and economic modeling.
 
-## What I learned
-- How to clean and visualize time-series data
-- Basics of ARIMA / linear regression
-- Limitations of simple forecasting models
-- Working with public economic datasets (World Bank, IMF)
-
 ## Project Structure
 - `data/` : raw and cleaned datasets
 - `notebooks/` : Jupyter notebooks with analysis
@@ -23,12 +17,11 @@ I am curious about how debt and inflation affect African countries and whether s
 3. Open the notebooks
 
 ## Results
-(insère ici des images de graphiques)
+
 
 ## Next steps
-- Try more advanced models (Prophet, LSTM)
 - Add more countries
-- Study the impact of external debt
+  
 
 ## Acknowledgments
 Courses from Kaggle, Hugging Face, etc.
